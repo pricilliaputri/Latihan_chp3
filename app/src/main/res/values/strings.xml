@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Latihan_chp3</string>
+    <string name="ini_home">Ini home</string>
+    <string name="ini_register">Ini register</string>
+    <string name="ini_halaman_login">ini halaman login</string>
+</resources>
